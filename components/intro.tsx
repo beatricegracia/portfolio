@@ -19,7 +19,7 @@ export default function Intro() {
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
   const [typeEffect] = useTypewriter({
     words: ["Greetings! Beatrice here!", "I mainly use React(Next.Js)!", "Developing website is my main work"],
-    loop: {},
+    loop: true,
     typeSpeed: 50,
     deleteSpeed: 50,
   }); 

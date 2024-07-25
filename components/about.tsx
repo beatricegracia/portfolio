@@ -22,7 +22,7 @@ export default function About() {
       <p className="mb-3 text-xl leading-10">
         Greetings! I'm a driven front-end developer specializing in{" "}
         <span className=" font-semibold">
-          HTML, CSS, JavaScript, and ReactJS,{" "}
+          ReactJS, HTML, CSS, and JavaScript,{" "}
         </span>{" "}
         with a solid foundation in{" "}
         <span className="font-semibold">VueJS and MySQL.</span> I have a knack for
